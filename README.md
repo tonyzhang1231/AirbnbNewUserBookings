@@ -2,9 +2,10 @@
 
 # Result
 Using two models: xgboost and neural network
-xgboost        NDCG_5 = 0.86550  
-neural network NDCG_5 = 0.86450     
-(best: 0.88209)
+
+- xgboost        NDCG_5 = 0.86550  
+- neural network NDCG_5 = 0.86450     
+- (best: 0.88209)
 
 
 
